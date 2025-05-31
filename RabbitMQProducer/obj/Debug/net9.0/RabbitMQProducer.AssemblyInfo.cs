@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RabbitMQProducer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+978aed905caddad77ec067adf72fd37598ff881d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+123d95f72d7c9fcfb364e4c77e04749cdacb7eea")]
 [assembly: System.Reflection.AssemblyProductAttribute("RabbitMQProducer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RabbitMQProducer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
